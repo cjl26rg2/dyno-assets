@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <!-- Quasar profile banner (3:1). The logo, the name, one plain line, and the Q ring in a darker tone behind.
+       Flat colours only. -->
+  <rect width="1500" height="500" fill="#0d1220"/>
+  <circle cx="1450" cy="250" r="290" fill="none" stroke="#161b33" stroke-width="110"/>
+  <circle cx="1450" cy="250" r="80" fill="#161b33"/>
+  <g transform="translate(96 136) scale(0.53)">
+    <circle cx="242" cy="242" r="128" fill="none" stroke="#7c6cff" stroke-width="56"/>
+    <circle cx="242" cy="242" r="36" fill="#ffffff"/>
+    <path d="M300 300L384 384" stroke="#0d1220" stroke-width="84" stroke-linecap="round"/>
+    <path d="M300 300L384 384" stroke="#ffffff" stroke-width="50" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="282" font-family="'Segoe UI Black', 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="132" letter-spacing="8" fill="#ffffff">QUASAR</text>
+  <text x="406" y="352" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="38" fill="#98a2c3">Moderation, levels, games and more for Yapper</text>
+</svg>
