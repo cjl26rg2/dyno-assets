@@ -3,11 +3,8 @@
 <rect width="1200" height="300" fill="#0d1220"/>
 <path d="M760 0H1200V300H760C700 200 700 100 760 0Z" fill="#38bdf8"/>
 <g clip-path="url(#slab)"><g stroke="#000" stroke-width="16" opacity=".11"><path d="M400 320L740 -20"/><path d="M446 320L786 -20"/><path d="M492 320L832 -20"/><path d="M538 320L878 -20"/><path d="M584 320L924 -20"/><path d="M630 320L970 -20"/><path d="M676 320L1016 -20"/><path d="M722 320L1062 -20"/><path d="M768 320L1108 -20"/><path d="M814 320L1154 -20"/><path d="M860 320L1200 -20"/><path d="M906 320L1246 -20"/><path d="M952 320L1292 -20"/><path d="M998 320L1338 -20"/><path d="M1044 320L1384 -20"/><path d="M1090 320L1430 -20"/><path d="M1136 320L1476 -20"/><path d="M1182 320L1522 -20"/><path d="M1228 320L1568 -20"/><path d="M1274 320L1614 -20"/><path d="M1320 320L1660 -20"/><path d="M1366 320L1706 -20"/><path d="M1412 320L1752 -20"/><path d="M1458 320L1798 -20"/></g></g>
-<circle cx="960" cy="150" r="112" fill="#000" opacity=".16"/>
 <g transform="translate(882 72) scale(6.5)" fill="none" stroke="#fff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></g>
-<rect x="72" y="52" width="56" height="8" rx="4" fill="#38bdf8"/>
 <text x="70" y="110" font-family="'Segoe UI Black', 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="46" letter-spacing="10" fill="#ffffff">DYNO</text>
 <text x="68" y="196" font-family="'Segoe UI Black', 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="108" letter-spacing="1" fill="#38bdf8">TIME</text>
-<text x="72" y="250" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="27" fill="#98a2c3">Clocks, zones and calendars</text>
-<rect x="0" y="292" width="1200" height="8" fill="#38bdf8"/>
+<text x="72" y="250" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="27" fill="#98a2c3">Clocks, time zones and calendars</text>
 </svg>
